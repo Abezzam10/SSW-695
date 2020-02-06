@@ -4,8 +4,8 @@ and we are making a local life e-commerce platform.
 
 
 Team Members
-* [Zhonghua Bao](zbao4@stevens.edu)
-* [Anirudh Bezzam](abezzam@stevens.edu)
-* [Vignesh Mohan](vmohan@stevens.edu)
-* [Vineet Singh](vsingh17@stevens.edu)
-* [SHrey Vaity](svaity@stevens.edu)
+* [Zhonghua Bao] 
+* [Anirudh Bezzam]
+* [Vignesh Mohan]
+* [Vineet Singh]
+* [SHrey Vaity]
