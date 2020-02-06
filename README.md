@@ -4,8 +4,8 @@ and we are making a local life e-commerce platform.
 
 
 Team Members
-* [Zhonghua Bao] 
-* [Anirudh Bezzam]
-* [Vignesh Mohan]
-* [Vineet Singh]
-* [SHrey Vaity]
+* Zhonghua Bao
+* Anirudh Bezzam
+* Vignesh Mohan
+* Vineet Singh
+* Shrey Vaity
